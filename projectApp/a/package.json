@@ -1,0 +1,38 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.13.0",
+    "@react-native-community/masked-view": "0.1.10",
+    "base-64": "^0.1.0",
+    "expo": "^41.0.0",
+    "expo-sensors": "~10.1.2",
+    "firebase": "8.2.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
+    "react-native-animated-loader": "0.0.8",
+    "react-native-elements": "^1.2.7",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-google-fit": "^0.10.0",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-screens": "~3.0.0",
+    "react-native-web": "~0.13.12",
+    "react-navigation": "^4.1.0",
+    "react-navigation-stack": "^2.1.0",
+    "react-router-native": "^5.1.2",
+    "unimodules-permissions-interface": "^6.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0",
+    "babel-eslint": "^10.1.0",
+    "babel-preset-expo": "8.3.0"
+  },
+  "private": true
+}

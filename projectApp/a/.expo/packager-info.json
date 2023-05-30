@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://rc-kug.anonymous.a.exp.direct",
+  "packagerNgrokUrl": "https://packager.rc-kug.anonymous.a.exp.direct",
+  "ngrokPid": 35872,
+  "webpackServerPort": null
+}
